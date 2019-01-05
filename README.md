@@ -1,2 +1,2 @@
 # Wait-NTNXTask
-Veriefies the task and waits until finished
+Verifies the task and waits until finished
